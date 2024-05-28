@@ -1,0 +1,15 @@
+{
+  "name": "nodejs_2024",
+  "version": "1.0.0",
+  "description": "nodejs_practice",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon --env-file=.env server2.js"
+  },
+  "author": "Stephanie",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
